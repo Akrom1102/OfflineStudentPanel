@@ -1,0 +1,23 @@
+{
+  "speciality":
+          [
+            {
+              "name": "Dasturlash",
+              "description": "Mutaxasislik",
+              "gradution": 6,
+              "create_date": "2024-01-12"
+            },
+            {
+              "name": "Design",
+              "description": "Mutaxasislik",
+              "gradution": 3,
+              "create_date": "2024-01-12"
+            },
+            {
+              "name": "SMM",
+              "description": "Social media marketing",
+              "gradution": 7,
+              "create_date": "2024-01-22"
+            }
+          ]
+}

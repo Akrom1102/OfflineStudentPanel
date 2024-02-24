@@ -1,0 +1,36 @@
+{
+      "users": [
+            {
+                  "username": "akrom_1102",
+                  "password": "akrom007",
+                  "first_name": "Akrom",
+                  "last_name": "Abdumannobov",
+                  "gmail": "akrombunyodov@gmail.com",
+                  "status": true,
+                  "courses": [],
+                  "billing": 0,
+                  "create_date": "2024-01-18"
+            },
+            {
+                  "username": "sth1",
+                  "password": "12345",
+                  "first_name": "John",
+                  "last_name": "Smith",
+                  "gmail": "johnsmith1102@gmail.com",
+                  "status": false,
+                  "courses": [],
+                  "billing": 0,
+                  "create_date": "2024-01-20"
+            },
+            {
+                  "username": "3",
+                  "password": "asdfg",
+                  "first_name": "Akrom",
+                  "last_name": "Abdumannobov",
+                  "gmail": "qw@gmail.com",
+                  "status": 0,
+                  "billing": 0,
+                  "create_date": "2024-02-24"
+            }
+      ]
+}

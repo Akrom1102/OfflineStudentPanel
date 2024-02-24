@@ -1,0 +1,30 @@
+{
+      "courses": [
+            {
+                  "name": "Python",
+                  "gradution": 8,
+                  "description": "Bu til Backend dasturchilar uchun",
+                  "buying_users": 0,
+                  "price": 990,
+                  "mentor": "John Doe",
+                  "hours": 154,
+                  "reyting": 0,
+                  "active_users": 0,
+                  "lenguege": "uz",
+                  "create_date": "2023-12-16"
+            },
+            {
+                  "name": "Java",
+                  "gradution": 9,
+                  "description": "Bu tilda asosan mobil ilovalar bilan ishlaydi",
+                  "buying_users": 0,
+                  "price": 1100,
+                  "mentor": "Alliyev Samandar",
+                  "hours": 184,
+                  "reyting": 0,
+                  "active_users": 0,
+                  "lenguege": "uz",
+                  "create_date": "2023-10-09"
+            }
+      ]
+}
